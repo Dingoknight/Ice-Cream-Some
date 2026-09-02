@@ -4,3 +4,19 @@ hr {
   margin-left: 1px;
   margin-right: 1px;
 }
+
+.side-line {
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    width: 3px;
+    background-color: black;
+}
+
+.side-line.left {
+    left: 7%;
+}
+
+.side-line.right {
+    right: 7%;
+}
