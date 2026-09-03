@@ -1,29 +1,9 @@
 hr {
   height: 5px;
   background-color: red;
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 p {
-    margin-left: 10%;
-    margin-right: 10%;
     color: black;
     background-color: white;
-}
-
-.side-line {
-    position: fixed;
-    top: 0;
-    height: 100vh;
-    width: 3px;
-    background-color: black;
-}
-
-.side-line.left {
-    left: 7%;
-}
-
-.side-line.right {
-    right: 7%;
 }
