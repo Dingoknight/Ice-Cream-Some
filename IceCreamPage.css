@@ -1,0 +1,10 @@
+body {
+    background-color: lightpink;
+}
+
+p {
+    background-color: white;
+    border: solid black;
+    border-radius: 25px;
+    width: 75%;
+}
