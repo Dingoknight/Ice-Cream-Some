@@ -3,6 +3,9 @@ body {
 }
 
 p {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
     background-color: white;
     border: solid black;
     border-radius: 10px;
