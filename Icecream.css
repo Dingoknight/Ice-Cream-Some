@@ -1,10 +1,16 @@
 hr {
-  background-color: black;
+    height: 2px;
+    background-color: black;
 }
 
 p {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
-    background-color: lightblue;
+    background-color: white;
+    border: solid black;
+    border-radius: 10px;
+    width: 90%;
 }
 
 img {
@@ -14,4 +20,9 @@ img {
 
 body {
     background-color: lightblue;
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
 }
