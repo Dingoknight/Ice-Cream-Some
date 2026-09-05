@@ -5,6 +5,16 @@ body {
 p {
     background-color: white;
     border: solid black;
+    border-radius: 10px;
+    width: 42%;
+}
+
+hr {
+    background-color: black;
+    height: 2px;
+}
+
+img {
+    border: solid black;
     border-radius: 25px;
-    width: 75%;
 }
