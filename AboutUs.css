@@ -2,3 +2,12 @@
     border: 5px;
     border-radius: 25px;
 }
+
+a {
+    display: inline-block;
+}
+
+a:hover {
+    transition: 0.5s;
+    transform: scale(1.2);
+}
