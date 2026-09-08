@@ -26,3 +26,15 @@ a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
 }
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(7, 7, 199);
+    display: inline-block;
+}
+
+a:hover {
+    color: rgb(231, 150, 0);
+    transition: 0.5s;
+    transform: scale(1.2);
+}
