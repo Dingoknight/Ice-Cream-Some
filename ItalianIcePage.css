@@ -1,0 +1,19 @@
+*{
+    background-color: transparent;
+}
+body{
+    min-height: 100vh;
+    background: linear-gradient(to right,
+        lightgreen 0%,
+        lightgreen 30%,
+        lightblue 70%,
+        lightblue 100%
+    );
+}
+.Toxic {
+    font-family: Stencil Std, fantasy;
+}
+td{
+    text-align: center;
+    vertical-align: middle;
+}
